@@ -1,4 +1,4 @@
-input {
+div {
   margin-bottom: 10px;
 }
 
@@ -8,16 +8,4 @@ fieldset {
 
 .nmb { /*No margin bottom*/
   margin-bottom: 0;
-}
-
-.mt4 { /*Margin top 4px*/
-  margin-top: 4px;
-}
-
-.mt12 { /*Margin top 12px*/
-  margin-top: 12px;
-}
-
-.mt10 { /*Margin top 10px*/
-  margin-top: 10px;
 }
